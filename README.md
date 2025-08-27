@@ -45,7 +45,6 @@ demo-bluediff/
 ├── settings.gradle
 └── README.md
 
-
 ---
 
 ## 🐳 Execução via Docker
@@ -61,6 +60,8 @@ demo-bluediff/
 # Build do projeto (caso necessário)
 ./gradlew clean build
 
+---
+
 # Subir os containers
 docker-compose up --build
 
@@ -69,7 +70,8 @@ http://localhost:8080/swagger-ui/index.html
 
 ## 🧠 Sobre o Diffblue
 
-O Diffblue Cover é uma ferramenta de geração automática de testes unitários baseada em IA, que analisa o código existente e cria testes sem intervenção manual.
+O Diffblue Cover é uma ferramenta de geração automática de testes unitários baseada em IA,
+que analisa o código existente e cria testes sem intervenção manual.
 Entre os principais diferenciais:
 
 🕒 Mocks Automáticos de dependências
@@ -79,6 +81,8 @@ Entre os principais diferenciais:
 📊 Cenários Abrangentes (casos válidos + bordas)
 
 🧪 Cobertura Real sem escrita manual
+
+---
 
 ## 📌 Observações
 
