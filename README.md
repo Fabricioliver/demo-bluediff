@@ -30,6 +30,16 @@ Este repositório contém uma aplicação Java com Spring Boot desenvolvida como
 
 ---
 
+## 📌 Observações
+
+A integração com o Diffblue foi realizada via plugin no IntelliJ
+
+O projeto está pronto para demonstração técnica e pode ser expandido em sua versão Enterprise
+
+Esta versão usa o Diffblue Cover Trial (algumas limitações)
+
+---
+
 ## 📂 Estrutura do Projeto
 
 demo-bluediff/
