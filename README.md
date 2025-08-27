@@ -67,27 +67,3 @@ docker-compose up --build
 
 #A aplicação ficará disponível em
 http://localhost:8080/swagger-ui/index.html
-
-## 🧠 Sobre o Diffblue
-
-O Diffblue Cover é uma ferramenta de geração automática de testes unitários baseada em IA,
-que analisa o código existente e cria testes sem intervenção manual.
-Entre os principais diferenciais:
-
-🕒 Mocks Automáticos de dependências
-
-📉 Validação de Fluxo (ex: persistência)
-
-📊 Cenários Abrangentes (casos válidos + bordas)
-
-🧪 Cobertura Real sem escrita manual
-
----
-
-### 2. Observações
-
-A integração com o Diffblue foi realizada via plugin no IntelliJ
-
-O projeto está pronto para demonstração técnica e pode ser expandido em sua versão Enterprise
-
-Esta versão usa o Diffblue Cover Trial (algumas limitações)
