@@ -42,17 +42,17 @@ Esta versão usa o Diffblue Cover Trial (algumas limitações)
 
 ## 📂 Estrutura do Projeto
 
-demo-bluediff/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ └── resources/
-│ └── test/
-│ └── java/
-├── docker-compose.yml
-├── Dockerfile
-├── build.gradle
-├── settings.gradle
+demo-bluediff/ 
+├── src/ 
+│ ├── main/ 
+│ │ ├── java/ 
+│ │ └── resources/ 
+│ └── test/ 
+│ └── java/ 
+├── docker-compose.yml 
+├── Dockerfile 
+├── build.gradle 
+├── settings.gradle 
 └── README.md
 
 ---
