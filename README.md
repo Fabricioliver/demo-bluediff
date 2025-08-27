@@ -84,7 +84,7 @@ Entre os principais diferenciais:
 
 ---
 
-## 📌 Observações
+### 2. Observações
 
 A integração com o Diffblue foi realizada via plugin no IntelliJ
 
